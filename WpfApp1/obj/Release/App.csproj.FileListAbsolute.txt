@@ -1,0 +1,82 @@
+C:\Users\Максим\Desktop\App\WpfApp1\WpfApp1\bin\Release\Windows.exe.config
+C:\Users\Максим\Desktop\App\WpfApp1\WpfApp1\bin\Release\Windows.exe
+C:\Users\Максим\Desktop\App\WpfApp1\WpfApp1\bin\Release\Windows.pdb
+C:\Users\Максим\Desktop\App\WpfApp1\WpfApp1\obj\Release\Error.g.cs
+C:\Users\Максим\Desktop\App\WpfApp1\WpfApp1\obj\Release\MainWindow.g.cs
+C:\Users\Максим\Desktop\App\WpfApp1\WpfApp1\obj\Release\Window1.g.cs
+C:\Users\Максим\Desktop\App\WpfApp1\WpfApp1\obj\Release\Window2.g.cs
+C:\Users\Максим\Desktop\App\WpfApp1\WpfApp1\obj\Release\App.g.cs
+C:\Users\Максим\Desktop\App\WpfApp1\WpfApp1\obj\Release\Windows_MarkupCompile.cache
+C:\Users\Максим\Desktop\App\WpfApp1\WpfApp1\obj\Release\Windows_MarkupCompile.lref
+C:\Users\Максим\Desktop\App\WpfApp1\WpfApp1\obj\Release\Error.baml
+C:\Users\Максим\Desktop\App\WpfApp1\WpfApp1\obj\Release\MainWindow.baml
+C:\Users\Максим\Desktop\App\WpfApp1\WpfApp1\obj\Release\Window1.baml
+C:\Users\Максим\Desktop\App\WpfApp1\WpfApp1\obj\Release\Window2.baml
+C:\Users\Максим\Desktop\App\WpfApp1\WpfApp1\obj\Release\Windows.g.resources
+C:\Users\Максим\Desktop\App\WpfApp1\WpfApp1\obj\Release\App.Properties.Resources.resources
+C:\Users\Максим\Desktop\App\WpfApp1\WpfApp1\obj\Release\App.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\App\WpfApp1\WpfApp1\obj\Release\Windows.exe
+C:\Users\Максим\Desktop\App\WpfApp1\WpfApp1\obj\Release\Windows.pdb
+C:\Users\Maxim\Desktop\Новая папка\App\WpfApp1\WpfApp1\bin\Release\Windows.exe.config
+C:\Users\Maxim\Desktop\Новая папка\App\WpfApp1\WpfApp1\bin\Release\Windows.exe
+C:\Users\Maxim\Desktop\Новая папка\App\WpfApp1\WpfApp1\bin\Release\Windows.pdb
+C:\Users\Maxim\Desktop\Новая папка\App\WpfApp1\WpfApp1\obj\Release\App.csprojAssemblyReference.cache
+C:\Users\Maxim\Desktop\Новая папка\App\WpfApp1\WpfApp1\obj\Release\Error.g.cs
+C:\Users\Maxim\Desktop\Новая папка\App\WpfApp1\WpfApp1\obj\Release\MainWindow.g.cs
+C:\Users\Maxim\Desktop\Новая папка\App\WpfApp1\WpfApp1\obj\Release\Window1.g.cs
+C:\Users\Maxim\Desktop\Новая папка\App\WpfApp1\WpfApp1\obj\Release\Window2.g.cs
+C:\Users\Maxim\Desktop\Новая папка\App\WpfApp1\WpfApp1\obj\Release\App.g.cs
+C:\Users\Maxim\Desktop\Новая папка\App\WpfApp1\WpfApp1\obj\Release\Windows_MarkupCompile.cache
+C:\Users\Maxim\Desktop\Новая папка\App\WpfApp1\WpfApp1\obj\Release\Windows_MarkupCompile.lref
+C:\Users\Maxim\Desktop\Новая папка\App\WpfApp1\WpfApp1\obj\Release\Error.baml
+C:\Users\Maxim\Desktop\Новая папка\App\WpfApp1\WpfApp1\obj\Release\MainWindow.baml
+C:\Users\Maxim\Desktop\Новая папка\App\WpfApp1\WpfApp1\obj\Release\Window1.baml
+C:\Users\Maxim\Desktop\Новая папка\App\WpfApp1\WpfApp1\obj\Release\Window2.baml
+C:\Users\Maxim\Desktop\Новая папка\App\WpfApp1\WpfApp1\obj\Release\Windows.g.resources
+C:\Users\Maxim\Desktop\Новая папка\App\WpfApp1\WpfApp1\obj\Release\App.Properties.Resources.resources
+C:\Users\Maxim\Desktop\Новая папка\App\WpfApp1\WpfApp1\obj\Release\App.csproj.GenerateResource.cache
+C:\Users\Maxim\Desktop\Новая папка\App\WpfApp1\WpfApp1\obj\Release\App.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\Новая папка\App\WpfApp1\WpfApp1\obj\Release\Windows.exe
+C:\Users\Maxim\Desktop\Новая папка\App\WpfApp1\WpfApp1\obj\Release\Windows.pdb
+C:\Users\Maxim\Desktop\win\App\WpfApp1\WpfApp1\bin\Release\Windows.exe.config
+C:\Users\Maxim\Desktop\win\App\WpfApp1\WpfApp1\bin\Release\Windows.exe
+C:\Users\Maxim\Desktop\win\App\WpfApp1\WpfApp1\bin\Release\Windows.pdb
+C:\Users\Maxim\Desktop\win\App\WpfApp1\WpfApp1\obj\Release\App.csprojAssemblyReference.cache
+C:\Users\Maxim\Desktop\win\App\WpfApp1\WpfApp1\obj\Release\Error.g.cs
+C:\Users\Maxim\Desktop\win\App\WpfApp1\WpfApp1\obj\Release\MainWindow.g.cs
+C:\Users\Maxim\Desktop\win\App\WpfApp1\WpfApp1\obj\Release\Window1.g.cs
+C:\Users\Maxim\Desktop\win\App\WpfApp1\WpfApp1\obj\Release\Window2.g.cs
+C:\Users\Maxim\Desktop\win\App\WpfApp1\WpfApp1\obj\Release\App.g.cs
+C:\Users\Maxim\Desktop\win\App\WpfApp1\WpfApp1\obj\Release\Windows_MarkupCompile.cache
+C:\Users\Maxim\Desktop\win\App\WpfApp1\WpfApp1\obj\Release\Windows_MarkupCompile.lref
+C:\Users\Maxim\Desktop\win\App\WpfApp1\WpfApp1\obj\Release\Error.baml
+C:\Users\Maxim\Desktop\win\App\WpfApp1\WpfApp1\obj\Release\MainWindow.baml
+C:\Users\Maxim\Desktop\win\App\WpfApp1\WpfApp1\obj\Release\Window1.baml
+C:\Users\Maxim\Desktop\win\App\WpfApp1\WpfApp1\obj\Release\Window2.baml
+C:\Users\Maxim\Desktop\win\App\WpfApp1\WpfApp1\obj\Release\Windows.g.resources
+C:\Users\Maxim\Desktop\win\App\WpfApp1\WpfApp1\obj\Release\App.Properties.Resources.resources
+C:\Users\Maxim\Desktop\win\App\WpfApp1\WpfApp1\obj\Release\App.csproj.GenerateResource.cache
+C:\Users\Maxim\Desktop\win\App\WpfApp1\WpfApp1\obj\Release\App.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\win\App\WpfApp1\WpfApp1\obj\Release\Windows.exe
+C:\Users\Maxim\Desktop\win\App\WpfApp1\WpfApp1\obj\Release\Windows.pdb
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\bin\Release\Windows.exe.config
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\bin\Release\Windows.exe
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\obj\Release\App.csprojAssemblyReference.cache
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\obj\Release\Error.g.cs
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\obj\Release\MainWindow.g.cs
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\obj\Release\Window1.g.cs
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\obj\Release\Window2.g.cs
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\obj\Release\App.g.cs
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\obj\Release\Windows_MarkupCompile.cache
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\obj\Release\Windows_MarkupCompile.lref
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\obj\Release\Error.baml
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\obj\Release\MainWindow.baml
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\obj\Release\Window1.baml
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\obj\Release\Window2.baml
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\obj\Release\Windows.g.resources
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\obj\Release\App.Properties.Resources.resources
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\obj\Release\App.csproj.GenerateResource.cache
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\obj\Release\App.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\obj\Release\Windows.exe
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\obj\Release\Windows.pdb
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\bin\Release\Windows.pdb
