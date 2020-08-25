@@ -118,7 +118,7 @@ namespace WpfApp1
                     xui = false;
                     //window.Background = Brushes.Black;
                     Window2 Warring = new Window2();
-                    Warring.ShowDialog();
+                    Warring.ShowDialog(); 
                     //window.Background = Brushes.Transparent;
                     
                 }
