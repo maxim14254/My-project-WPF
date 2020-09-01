@@ -9,14 +9,18 @@ namespace WpfApp1
     /// <summary>
     /// Логика взаимодействия для Window2.xaml
     /// </summary>
+    /// 
+    
     public partial class Window2 : Window
     {
         //-----------------------Фоновое прозрачное окно, (нужно для нормального функционирования наказаний)
         Window1 window = new Window1();
        
         bool Off = true;
-        public Window2()
+
+        public  Window2()
         {
+         
             InitializeComponent();
 
             window.Background = Brushes.Black;
