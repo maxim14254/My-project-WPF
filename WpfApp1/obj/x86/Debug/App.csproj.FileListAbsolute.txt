@@ -80,3 +80,4 @@ C:\Users\Maxim\Desktop\My-Project-WPF-master\WpfApp1\obj\x86\Debug\App.csproj.Ge
 C:\Users\Maxim\Desktop\My-Project-WPF-master\WpfApp1\obj\x86\Debug\App.csproj.CoreCompileInputs.cache
 C:\Users\Maxim\Desktop\My-Project-WPF-master\WpfApp1\obj\x86\Debug\Windows.exe
 C:\Users\Maxim\Desktop\My-Project-WPF-master\WpfApp1\obj\x86\Debug\Windows.pdb
+C:\Users\Maxim\Desktop\App\WpfApp1\WpfApp1\bin\x86\Debug\MainWindow.xaml.cs

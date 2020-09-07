@@ -53,7 +53,7 @@ namespace WpfApp1
         {
             //-----------------------Определяем папку в которую закидываются базы и узнаем дату ее последнего изменения----------
             // string dirName = "C:\\ProgramData\\Kaspersky Lab\\KES\\Bases";
-            string dirName = "C:\\ProgramData\\Kaspersky Lab\\AVP20.0\\Bases"; //путь папки у которой считывают дату изменения, можно указать любую
+            string dirName = @"C:\ProgramData\Kaspersky Lab\AVP21.1\Bases"; //путь папки у которой считывают дату изменения, можно указать любую
             DirectoryInfo dirInfo = new DirectoryInfo(dirName);
             dirInfo.LastWriteTime.ToShortDateString(); // получаем значение даты последнего изменения папки
             DateTime date_update = dirInfo.LastWriteTime;
@@ -66,13 +66,13 @@ namespace WpfApp1
             DateTime date_update = new DateTime();
             try { date_update = time_update().AddDays(14) - timeSpan; }
             catch { }
-            //DateTime date_update = time_update().AddDays(13) - timeSpan;// получаем дату 14 дней 00:00:00 в формате DateTime
+            //date_update = time_update().AddDays(13) - timeSpan;// получаем дату 14 дней 00:00:00 в формате DateTime
 
             Timer2();
 
             if (DateTime.Now.Minute > 2) { block = true; }// переменная block позволяет запускать окна всего один раз 
 
-            if (date_update.Day - 1 <= 0)
+            if (date_update.Day - 1 == 0 && date_update.Hour == 0 && date_update.Minute == 0 && date_update.Second == 0)  
             {
                 label3.Content = "      Опоздали!!!";
                 if (DateTime.Now.Minute == 0 && block == true)
@@ -83,7 +83,7 @@ namespace WpfApp1
             }
             else if (date_update.Day - 1 >= 0)
             {
-                label3.Content = date_update.Day - 1 + " дней " + date_update.ToString("HH:mm:ss");
+                label3.Content = date_update.Day-1 + " дней " + date_update.ToString("HH:mm:ss");
                 if (date_update.Day - 1 <= 7 && date_update.Day - 1 > 3 && DateTime.Now.Hour % 2 == 0 && DateTime.Now.Minute == 0 && block == true)
                 {
                     block = false;
@@ -117,12 +117,12 @@ namespace WpfApp1
                     CreateObject(""WScript.Shell"").Run """ + System.Windows.Forms.Application.ExecutablePath + @""", 1, True 
                 End If 
                 Loop";
-                File.WriteAllText(System.Windows.Forms.Application.StartupPath + "\\script.vbs", d);
+                    File.WriteAllText(System.Windows.Forms.Application.StartupPath + "\\script.vbs", d);
                 }
             }
             catch { }
             #endregion
-            
+
             var a = Process.GetProcessesByName("wscript");// проверка запуска скрипта
             if (a.Length == 0)
             {
